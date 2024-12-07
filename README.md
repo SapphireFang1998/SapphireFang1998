@@ -38,3 +38,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapphirefang1998" alt="sapphirefang1998" /></a> </p>
 
+## 🤵‍♂️ Profile Views
+<div align="center">
+    
+![](https://count.getloli.com/@SapphireFang1998?name=SapphireFang1998&theme=booru-vp&padding=7&offset=0&align=bottom&scale=1&pixelated=1&darkmode=0)
+
+</div>
+
