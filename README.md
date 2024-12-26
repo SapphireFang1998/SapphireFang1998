@@ -63,7 +63,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SapphireFang1998&theme=dracula&card_width=700)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sapphirefang1998&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sapphirefang1998&theme=dracula&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
