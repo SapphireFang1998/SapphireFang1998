@@ -53,19 +53,19 @@
 ## Github Stats
 <div align="center">
     
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SapphireFang1998&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SapphireFang1998&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SapphireFang1998&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SapphireFang1998&theme=dracula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SapphireFang1998&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SapphireFang1998&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SapphireFang1998&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SapphireFang1998&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SapphireFang1998&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SapphireFang1998&theme=dracula)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SapphireFang1998&theme=dracula&card_width=700)](https://git.io/streak-stats)
 
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sapphirefang1998&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapphirefang1998" alt="sapphirefang1998" /></a> </p>
+</div>
 
 ## 🤵‍♂️ Profile Views
 <div align="center">
