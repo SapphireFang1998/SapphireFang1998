@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shamim Rahim Refat</h1>
-<h3 align="center">Aspiring enthusiast in Machine Learning and Artificial Intelligence, focusing in computer vision. Currently expanding my skills in mobile app development utilizing Flutter and Dart. Enthusiastic about contributing to dynamic teams and continuously advancing my skills and knowledge through hands-on experience and learning.</h3>
+<div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Vibur&size=40&duration=2000&pause=300&center=true&vCenter=true&multiline=true&width=850&height=210&lines=Hi;I'm+Shamim+Rahim+Refat;ML%2FAI+Enthusiast+%26+Flutter+Developer;Focused+on+Computer+Vision+and+Flutter+App+Development)](https://git.io/typing-svg)
+
+</div>
 
 - 🌱 I’m currently learning **mobile app development using Flutter & Dart**
 
