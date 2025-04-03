@@ -4,21 +4,15 @@
 
 </div>
 
-- 🌱 I’m currently learning **mobile app development using Flutter & Dart**
-
-- 📫 How to reach me **n.a.refat2000@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/SapphireFang1998/RESUME/blob/main/RESUME.pdf](https://github.com/SapphireFang1998/RESUME/blob/main/RESUME.pdf)
-
 ## 💬 Connect with Me
 <p align="center">
     <a href="mailto:n.a.refat2000@gmail.com" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/Gmail.svg" alt="gmail" width="50" height="50"/> </a>
-    <a href="https://kaggle.com/sapphirefang1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sapphirefang1998" height="30" width="40" /></a>
-    <a href="https://fb.com/sapphirefang1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sapphirefang1998" height="30" width="40" /></a>
-    <a href="https://instagram.com/sapphirefang1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sapphirefang1998" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/sapphirefang1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sapphirefang1998" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/sapphirefang98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sapphirefang98" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/sapphire_fang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sapphire_fang" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/SapphireFang1998/" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/Facebook.svg" alt="gmail" width="50" height="50"/> </a>
+    <a href="https://www.instagram.com/sapphirefang1998/" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/Instagram.svg" alt="gmail" width="50" height="50"/> </a>
+    <a href="https://www.linkedin.com/in/sapphirefang1998" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/Linkedin.svg" alt="gmail" width="50" height="50"/> </a>
+    <a href="https://scholar.google.com/citations?user=bbQPmEcAAAAJ" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/GoogleScholar.svg" alt="gmail" width="50" height="50"/> </a>
+    <a href="https://www.researchgate.net/profile/Shamim-Rahim-Refat" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/ResearchGate.svg" alt="gmail" width="50" height="50"/> </a>
+    <a href="https://github.com/SapphireFang1998/RESUME/blob/main/RESUME.pdf" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/CV.svg" alt="gmail" width="50" height="50"/> </a>
 </p>
 
 ## 💻 Languages and Tools
