@@ -12,7 +12,7 @@
 
 ## 💬 Connect with Me
 <p align="center">
-    <a href="https://linkedin.com/in/sapphirefang1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sapphirefang1998" height="30" width="40" /></a>
+    <a href="mailto:n.a.refat2000@gmail.com" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/Gmail.svg" alt="gmail" width="50" height="50"/> </a>
     <a href="https://kaggle.com/sapphirefang1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sapphirefang1998" height="30" width="40" /></a>
     <a href="https://fb.com/sapphirefang1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sapphirefang1998" height="30" width="40" /></a>
     <a href="https://instagram.com/sapphirefang1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sapphirefang1998" height="30" width="40" /></a>
