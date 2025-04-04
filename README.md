@@ -1,6 +1,6 @@
 <div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Vibur&size=40&duration=2000&pause=300&center=true&vCenter=true&multiline=true&width=850&height=210&lines=Hi;I'm+Shamim+Rahim+Refat;ML%2FAI+Enthusiast+%26+Flutter+Developer;Focused+on+Computer+Vision+and+Flutter+App+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=2500&pause=400&center=true&vCenter=true&multiline=true&width=850&height=200&lines=Hi;I'm+Shamim+Rahim+Refat;ML%2FAI+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
