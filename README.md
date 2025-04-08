@@ -26,6 +26,7 @@
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="csharp" width="50" height="50"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="css3" width="50" height="50"/> </a> 
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="dart" width="50" height="50"/> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="docker" width="50" height="50"/> </a> 
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="dotnet" width="50" height="50"/> </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="figma" width="50" height="50"/> </a> 
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="firebase" width="50" height="50"/> </a> 
