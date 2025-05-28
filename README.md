@@ -45,6 +45,7 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="php" width="50" height="50"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="postman" width="50" height="50"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="python" width="50" height="50"/> </a> 
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="pytorch" width="50" height="50"/> </a> 
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit_learn" width="50" height="50"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="tensorflow" width="50" height="50"/> </a> 
 </p>
