@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/sapphirefang1998" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/Linkedin.svg" alt="gmail" width="50" height="50"/> </a>
     <a href="https://scholar.google.com/citations?user=bbQPmEcAAAAJ" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/GoogleScholar.svg" alt="gmail" width="50" height="50"/> </a>
     <a href="https://www.researchgate.net/profile/Shamim-Rahim-Refat" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/ResearchGate.svg" alt="gmail" width="50" height="50"/> </a>
-    <a href="https://github.com/SapphireFang1998/RESUME/blob/main/RESUME.pdf" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/CV.svg" alt="gmail" width="50" height="50"/> </a>
+    <a href="https://github.com/SapphireFang1998/SapphireFang1998.github.io/blob/main/files/Resume/Resume.pdf" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/CV.svg" alt="gmail" width="50" height="50"/> </a>
 </p>
 
 ## 💻 Languages and Tools
