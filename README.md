@@ -5,7 +5,7 @@
 </div>
 
 ## 💬 Connect with Me
-<p align="center">
+<div align="center">
     <a href="mailto:n.a.refat2000@gmail.com" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/Gmail.svg" alt="gmail" width="50" height="50"/> </a>
     <a href="https://www.facebook.com/SapphireFang1998/" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/Facebook.svg" alt="gmail" width="50" height="50"/> </a>
     <a href="https://www.instagram.com/sapphirefang1998/" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/Instagram.svg" alt="gmail" width="50" height="50"/> </a>
@@ -13,10 +13,10 @@
     <a href="https://scholar.google.com/citations?user=bbQPmEcAAAAJ" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/GoogleScholar.svg" alt="gmail" width="50" height="50"/> </a>
     <a href="https://www.researchgate.net/profile/Shamim-Rahim-Refat" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/ResearchGate.svg" alt="gmail" width="50" height="50"/> </a>
     <a href="https://github.com/SapphireFang1998/SapphireFang1998.github.io/blob/main/files/Resume/Resume.pdf" target="blank"> <img src="https://raw.githubusercontent.com/SapphireFang1998/Icons/refs/heads/main/CV.svg" alt="gmail" width="50" height="50"/> </a>
-</p>
+</div>
 
 ## 💻 Languages and Tools
-<p align="center"> 
+<div align="center"> 
     <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" alt="anaconda" width="50" height="50"/> </a> 
     <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="android" width="50" height="50"/> </a> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="arduino" width="50" height="50"/> </a> 
@@ -48,7 +48,7 @@
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="pytorch" width="50" height="50"/> </a> 
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit_learn" width="50" height="50"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="tensorflow" width="50" height="50"/> </a> 
-</p>
+</div>
 
 ## 📊 Github Stats
 <div align="center">
